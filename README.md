@@ -6,6 +6,8 @@ If you control the application configuration, use Tencent CAPTCHA test mode. If 
 
 This article explains how to automate Tencent CAPTCHA with the official [Captcha Solver Python SDK](https://github.com/captcha-solver-api/python-sdk). The SDK repository contains the installation instructions, API reference, and complete synchronous and asynchronous examples.
 
+This repository was created as an example for the article: [How to Automate Tencent CAPTCHA](https://captcha-solver.com/en/blog/how-to-automate-tencent-captcha).
+
 ## Tencent CAPTCHA Data
 
 You need the following data to create a task:
