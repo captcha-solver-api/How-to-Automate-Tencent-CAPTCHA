@@ -70,6 +70,22 @@ For a client proxy, use `TencentTask`. The complete example and all proxy fields
 
 The supported proxy types are `http`, `socks4`, and `socks5`. If the proxy does not require authentication, omit `proxyLogin` and `proxyPassword`.
 
+### Local Python Examples
+
+The repository includes the complete SDK examples for both client modes:
+
+- [Synchronous example](examples/sync/tencent.py)
+- [Asynchronous example](examples/async/tencent.py)
+
+Set `CAPTCHA_API_KEY` and replace the placeholder `websiteURL` and `appId` values before running either example:
+
+```bash
+python examples/sync/tencent.py
+python examples/async/tencent.py
+```
+
+Both examples show proxyless and proxy-based tasks. They print the complete Tencent result object, which must be passed unchanged to the page callback.
+
 ## Passing the Result to the Callback
 
 Tencent CAPTCHA returns an object containing the verification result:
