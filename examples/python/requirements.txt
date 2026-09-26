@@ -1,0 +1,2 @@
+captcha-solver-api>=1.0.2
+python-dotenv>=1.0
