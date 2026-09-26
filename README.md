@@ -1,5 +1,7 @@
 # How to Automate Tencent CAPTCHA
 
+![How to Automate Tencent CAPTCHA](assets/tencent-captcha-banner.png)
+
 Tencent CAPTCHA can block an automated scenario during registration, login, or form submission. This often happens in Selenium, Playwright, and other E2E tests.
 
 If you control the application configuration, use Tencent CAPTCHA test mode. If the test works with a real CAPTCHA or you cannot change the configuration, get the result through Captcha Solver and pass it to the page callback.
