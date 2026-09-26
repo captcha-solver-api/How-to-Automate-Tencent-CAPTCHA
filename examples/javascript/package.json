@@ -1,0 +1,13 @@
+{
+  "name": "captcha-solver-tencent-examples",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "sync": "node sync/tencent.js",
+    "async": "node async/tencent.js"
+  },
+  "dependencies": {
+    "@captcha-solver-api/javascript-sdk": "^1.0.0",
+    "dotenv": "^16.4.0"
+  }
+}
