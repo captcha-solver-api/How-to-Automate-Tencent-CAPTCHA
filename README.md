@@ -129,12 +129,15 @@ Get the solution immediately before submitting the form and pass it to the same 
 
 If the page loads the Tencent CAPTCHA script from a custom URL, pass it through the optional `captchaScript` parameter. Use this parameter only when the page actually loads a non-default script URL.
 
-## Resources
+## Useful Links
 
 - [Captcha Solver Python SDK](https://github.com/captcha-solver-api/python-sdk)
 - [Python Tencent examples](https://github.com/captcha-solver-api/python-sdk/tree/main/examples)
 - [Captcha Solver JavaScript SDK](https://github.com/captcha-solver-api/javascript-sdk)
 - [JavaScript Tencent examples](https://github.com/captcha-solver-api/javascript-sdk/tree/main/examples)
+- [Python examples](https://github.com/captcha-solver-api/python-examples)
+- [JavaScript examples](https://github.com/captcha-solver-api/javascript-examples)
+- [Cloudflare Turnstile Puppeteer Demo](https://github.com/captcha-solver-api/cloudflare-turnstile-puppeteer-demo)
 - [Tencent CAPTCHA documentation](https://captcha-solver.com/en/docs/methods#tencent)
 - [How to Automate Tencent CAPTCHA](https://captcha-solver.com/en/blog/how-to-automate-tencent-captcha)
 
