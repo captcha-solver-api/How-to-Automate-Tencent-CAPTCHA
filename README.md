@@ -136,6 +136,7 @@ If the page loads the Tencent CAPTCHA script from a custom URL, pass it through 
 - [Captcha Solver JavaScript SDK](https://github.com/captcha-solver-api/javascript-sdk)
 - [JavaScript Tencent examples](https://github.com/captcha-solver-api/javascript-sdk/tree/main/examples)
 - [Python examples](https://github.com/captcha-solver-api/python-examples)
+- [Selenium Python examples](https://github.com/captcha-solver-api/captcha-solver-selenium-python-examples)
 - [JavaScript examples](https://github.com/captcha-solver-api/javascript-examples)
 - [Cloudflare Turnstile Puppeteer Demo](https://github.com/captcha-solver-api/cloudflare-turnstile-puppeteer-demo)
 - [Tencent CAPTCHA documentation](https://captcha-solver.com/en/docs/methods#tencent)
