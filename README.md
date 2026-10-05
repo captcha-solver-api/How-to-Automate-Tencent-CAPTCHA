@@ -129,6 +129,18 @@ Get the solution immediately before submitting the form and pass it to the same 
 
 If the page loads the Tencent CAPTCHA script from a custom URL, pass it through the optional `captchaScript` parameter. Use this parameter only when the page actually loads a non-default script URL.
 
+## Build Faster with AI
+
+Give [`llms.txt`](https://captcha-solver.com/llms.txt) to your AI assistant when
+adapting these examples. It describes the current Tencent task parameters and
+the complete solution object expected by the page callback.
+
+```text
+Read https://captcha-solver.com/llms.txt and adapt the Tencent example in this
+repository to my target page: [describe the page and how the CAPTCHA appears].
+Show how to obtain appId and pass the complete solution to the page callback.
+```
+
 ## Useful Links
 
 - [Captcha Solver Python SDK](https://github.com/captcha-solver-api/python-sdk)
