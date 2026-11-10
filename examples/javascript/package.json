@@ -7,7 +7,7 @@
     "async": "node async/tencent.js"
   },
   "dependencies": {
-    "@captcha-solver-api/javascript-sdk": "^1.0.0",
+    "@captcha-solver-api/javascript-sdk": "^1.1.0",
     "dotenv": "^16.4.0"
   }
 }
